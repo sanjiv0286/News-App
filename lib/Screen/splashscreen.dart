@@ -1,5 +1,4 @@
 import 'dart:async';
-
 import 'package:flutter/material.dart';
 
 import 'homepage.dart';
@@ -15,7 +14,7 @@ class _SplashScreenState extends State<SplashScreen> {
   @override
   void initState() {
     super.initState();
-    Timer(const Duration(seconds: 2), () {
+    Timer(const Duration(seconds: 10), () {
       Navigator.pushReplacement(
           context, MaterialPageRoute(builder: (context) => const HomePage()));
     });
@@ -29,11 +28,31 @@ class _SplashScreenState extends State<SplashScreen> {
         fit: StackFit.expand,
         children: [
           Image.network(
-            //2,3,5
             'https://img.freepik.com/premium-vector/man-woman-reading-newspaper-discussing-daily-news-during-meeting-park-chat-bubble-communication_48369-32038.jpg?size=626&ext=jpg&ga=GA1.1.1803221636.1689421772&semt=ais',
+            // 'https://img.freepik.com/premium-vector/veterinarians-chatting-during-meeting-medical-doctors-team-discussing-daily-news-chat-bubble-communication-concept-veterinary-clinic-smartphone-screen-mobile-app-template_48369-31842.jpg?size=626&ext=jpg&ga=GA1.1.1803221636.1689421772&semt=ais',
             fit: BoxFit.cover,
+            // height: 160,
+            // width: 170,
           ),
-        
+          Container(
+            alignment: Alignment.center,
+            color: Colors.transparent, // Make the container transparent
+            child: const Column(
+              mainAxisAlignment: MainAxisAlignment.center,
+              children: [
+                Center(
+                  child: Text(
+                    "Classico",
+                    style: TextStyle(
+                      color: Colors.white,
+                      fontSize: 40,
+                      fontWeight: FontWeight.w700,
+                    ),
+                  ),
+                ),
+              ],
+            ),
+          ),
         ],
       ),
     );
