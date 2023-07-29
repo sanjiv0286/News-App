@@ -197,12 +197,7 @@ class _Forms2State extends State<Forms2> {
                     }
                     return null;
                   },
-                  // validator: (value) {
-                  //   if (value!.isEmpty) {
-                  //     return "please fill the details";
-                  //   }
-                  //   return null;
-                  // },
+                  
                 ),
                 TextFormField(
                   controller: widget.passwordController,
