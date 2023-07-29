@@ -92,7 +92,7 @@ class _HomePageState extends State<HomePage> {
                 passwordController: _password,
                 formKey: _formKey,
               ),
-      
+
               // *********************
               const SizedBox(
                 height: 100,
@@ -138,7 +138,8 @@ class _HomePageState extends State<HomePage> {
                               Navigator.push(
                                   context,
                                   MaterialPageRoute(
-                                      builder: (context) => const LoginScreen()));
+                                      builder: (context) =>
+                                          const LoginScreen()));
                             },
                             child: const Text(
                               "Login",
@@ -222,12 +223,6 @@ class _Forms1State extends State<Forms1> {
                     }
                     return null;
                   },
-                  // validator: (value) {
-                  //   if (value!.isEmpty) {
-                  //     return "please fill the details";
-                  //   }
-                  //   return null;
-                  // },
                 ),
                 TextFormField(
                   // controller: _email,
@@ -249,12 +244,6 @@ class _Forms1State extends State<Forms1> {
                     }
                     return null;
                   },
-                  // validator: (value) {
-                  //   if (value!.isEmpty) {
-                  //     return "please fill the details";
-                  //   }
-                  //   return null;
-                  // },
                 ),
                 TextFormField(
                   // controller: _password,
@@ -293,4 +282,3 @@ class _Forms1State extends State<Forms1> {
     );
   }
 }
-
