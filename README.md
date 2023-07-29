@@ -2,4 +2,4 @@
 ##
 ## Just follow☝️ me and Star⭐ my repository 
 
- ![GitHub watchers](https://img.shields.io/github/watchers/iampawan/FlutterExampleApps.svg?style=social&label=Watch)
+ ![GitHub watchers](https://img.shields.io/github/watchers/sanjiv0286/News-App.svg?style=social&label=Watch)
