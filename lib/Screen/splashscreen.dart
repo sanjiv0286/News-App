@@ -31,8 +31,6 @@ class _SplashScreenState extends State<SplashScreen> {
             'https://img.freepik.com/premium-vector/man-woman-reading-newspaper-discussing-daily-news-during-meeting-park-chat-bubble-communication_48369-32038.jpg?size=626&ext=jpg&ga=GA1.1.1803221636.1689421772&semt=ais',
             // 'https://img.freepik.com/premium-vector/veterinarians-chatting-during-meeting-medical-doctors-team-discussing-daily-news-chat-bubble-communication-concept-veterinary-clinic-smartphone-screen-mobile-app-template_48369-31842.jpg?size=626&ext=jpg&ga=GA1.1.1803221636.1689421772&semt=ais',
             fit: BoxFit.cover,
-            // height: 160,
-            // width: 170,
           ),
         ],
       ),
