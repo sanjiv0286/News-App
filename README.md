@@ -1,16 +1,7 @@
-# newsapp
+# News App Using Flutter FrameWork
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![SplashScreen](https://github.com/sanjiv0286/News-App/assets/102908980/97ff7210-1581-48bd-95b8-6005ab83c3b7)
+![Signup](https://github.com/sanjiv0286/News-App/assets/102908980/705967d2-b8f5-4f96-8e6f-80ae9518958c)
+![Login](https://github.com/sanjiv0286/News-App/assets/102908980/0037545e-401f-4295-8b9f-3db437790f83)
+![MainScreen](https://github.com/sanjiv0286/News-App/assets/102908980/8e095723-1c93-4add-b023-b57f6f548ad9)
+![APP](https://github.com/sanjiv0286/News-App/assets/102908980/70054b2b-341a-46ff-b468-bf6ce532a354)
