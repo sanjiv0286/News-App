@@ -34,25 +34,6 @@ class _SplashScreenState extends State<SplashScreen> {
             // height: 160,
             // width: 170,
           ),
-          Container(
-            alignment: Alignment.center,
-            color: Colors.transparent, // Make the container transparent
-            child: const Column(
-              mainAxisAlignment: MainAxisAlignment.center,
-              children: [
-                Center(
-                  child: Text(
-                    "Classico",
-                    style: TextStyle(
-                      color: Colors.white,
-                      fontSize: 40,
-                      fontWeight: FontWeight.w700,
-                    ),
-                  ),
-                ),
-              ],
-            ),
-          ),
         ],
       ),
     );
