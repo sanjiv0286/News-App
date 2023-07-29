@@ -35,7 +35,6 @@ class MyApp extends StatelessWidget {
           // ),
           // body: HomePage(),
           body: SplashScreen(),
-
         ),
       ),
     );

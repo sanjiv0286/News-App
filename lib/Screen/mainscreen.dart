@@ -11,7 +11,7 @@ class MainScreen extends StatefulWidget {
 }
 
 class _MainScreenState extends State<MainScreen> {
-  List<dynamic> _newsList = [];
+  List<dynamic> _newsList = [0];
 
   @override
   void initState() {
@@ -96,10 +96,10 @@ class _MainScreenState extends State<MainScreen> {
                           final article = _newsList[index];
                           return ListTile(
                             leading: ClipRRect(
-                              // borderRadius:
-                              // const BorderRadius.all(Radius.circular(100)),
-                              borderRadius: const BorderRadius.all(
-                                  Radius.elliptical(15, 15)),
+                              borderRadius:
+                                  const BorderRadius.all(Radius.circular(100)),
+                              // borderRadius: const BorderRadius.all(
+                              //     Radius.elliptical(15, 15)),
                               child: article['urlToImage'] != null
                                   ? Image.network(
                                       article['urlToImage'],
@@ -115,12 +115,12 @@ class _MainScreenState extends State<MainScreen> {
                                     ),
                             ),
                             title: Text(
-                              article['title'],
+                              article['title'] ?? 'No Title',
                               style: const TextStyle(
                                   fontSize: 22, fontWeight: FontWeight.w500),
                             ),
                             subtitle: Text(
-                              article['description'],
+                              article['description'] ?? 'No Description',
                               style: const TextStyle(fontSize: 15),
                               selectionColor: Colors.black,
                             ),
