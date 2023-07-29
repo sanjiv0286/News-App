@@ -21,19 +21,6 @@ class MyApp extends StatelessWidget {
       home: SafeArea(
         child: Scaffold(
           backgroundColor: Colors.white,
-          // appBar: AppBar(
-          //   backgroundColor: Colors.white,
-          //   title: const Text(
-          //     "MyNews",
-          // style: TextStyle(
-          //   color: Colors.blue,
-          //   fontSize: 40,
-          //   fontWeight: FontWeight.w700,
-          //   fontStyle: FontStyle.italic,
-          // ),
-          //   ),
-          // ),
-          // body: HomePage(),
           body: SplashScreen(),
         ),
       ),
