@@ -11,7 +11,7 @@ class MainScreen extends StatefulWidget {
 }
 
 class _MainScreenState extends State<MainScreen> {
-  List<dynamic> _newsList = [0];
+  List<dynamic> _newsList = [ ];
 
   @override
   void initState() {
