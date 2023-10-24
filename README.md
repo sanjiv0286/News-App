@@ -1,5 +1,35 @@
+# News App
 # News App Using Flutter FrameWork with Firebase authentication and fetch News from  https://newsapi.org/ 
-#
+
+<img src= "https://visitor-badge.laobi.icu/badge?page_id=sanjiv0286/News-App" alt="visitor badge"/> |  ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/sanjiv0286/News-App/main)
+
+<table>
+ <td>
+  <div>
+    <img src="assets/images/AppIcon.png" width="300" height="350" alt="App">
+  </div>
+  <div>AppIcon</div>
+  
+</td>
+ <tr>
+ <hr>
+  
+<!--   <td><img src= "image/Kalamappicon.png" width="300" height="350" alt= "AppIcon"></td> -->
+  <td><img src= "assets/images/APP.jpeg" width="300" height="600"></td>
+  <td><img src = "assets/images/SplashScreen.jpeg" width="300" height="600"></td>
+  <td><img src = "assets/images/Signup.jpeg" width="300" height="600"></td>
+ 
+</tr> 
+ </table>
+<table>
+ <tr>
+    <td><img src = "assets/images/Login.jpeg" width="300" height="600"></td>
+  <td><img src = "assets/images/MainScreen.jpeg" width="300" height="600"></td>
+  
+</tr>
+ </table>
+ 
+<!-- #
 ![](assets/images/AppIcon.png)
 #
 ![](assets/images/APP.jpeg)
@@ -11,21 +41,18 @@
 ![](assets/images/Login.jpeg)
 #
 ![](assets/images/MainScreen.jpeg)
+# -->
+## Technologies Used
+* Android Studio
+* VS Code
+* Flutter
+* Dart
+* Android Emulator
+
+
+Thank you! ☺️
+
+made with ❤️ by Sanjiv Kushwaha.
 #
 ## Just follow☝️ me and Star⭐ my repository 
 
-<!--[![](https://visitcount.itsvg.in/api?id=sanjiv0286&icon=0&color=6)](https://visitcount.itsvg.in)-->
-
- <!--[GitHub watchers](https://img.shields.io/github/watchers/sanjiv0286/News-App.svg?style=social&label=Watch)-->
-<!--# age_calculator
-
-Let's Calculate your age
-
-<table>
- <tr>
-    <td><img src= "assets/images/AppIcon.png" width="150" height="150"></td>
-  <td><img src= "https://firebasestorage.googleapis.com/v0/b/tik-tok-dc867.appspot.com/o/age%2Ficon.png?alt=media&token=5922b002-63aa-4654-9edd-fce000d33b29" width="150" height="150"></td>
-  <td><img src = "https://firebasestorage.googleapis.com/v0/b/tik-tok-dc867.appspot.com/o/age%2FWhatsApp%20Image%202021-05-08%20at%207.41.13%20PM.jpeg?alt=media&token=2de96e39-9b18-4def-9d0d-1794ab3ded56" width="150" height="250"></td>
-  <td><img src = "https://firebasestorage.googleapis.com/v0/b/tik-tok-dc867.appspot.com/o/age%2FWhatsApp%20Image%202021-05-08%20at%207.41.14%20PM.jpeg?alt=media&token=7eb02159-9eeb-4854-8385-192fb003f962" width="150" height="250"></td>
-</tr> 
- </table>-->
