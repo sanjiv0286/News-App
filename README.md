@@ -47,6 +47,8 @@
 * VS Code
 * Flutter
 * Dart
+* Firebase
+* API
 * Android Emulator
 
 
