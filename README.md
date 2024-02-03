@@ -15,7 +15,7 @@
  <hr>
   
 <!--   <td><img src= "image/Kalamappicon.png" width="300" height="350" alt= "AppIcon"></td> -->
-  <td><img src= "assets/images/APP.jpeg" width="300" height="600"></td>
+ <!-- <td><img src= "assets/images/APP.jpeg" width="300" height="600"></td> -->
   <td><img src = "assets/images/SplashScreen.jpeg" width="300" height="600"></td>
   <td><img src = "assets/images/Signup.jpeg" width="300" height="600"></td>
  
